@@ -113,33 +113,6 @@ Yoga-Pose-Detection/
 
 *Note: Update the folder and file names to match your actual repository structure.*
 
-## 🚀 Installation and Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd Yoga-Pose-Detection
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Project
-
-```bash
-python main.py
-```
-
-*Note: Replace the execution command with the appropriate command for your project.*
 
 ## 💡 Applications
 
